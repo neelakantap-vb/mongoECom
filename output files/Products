@@ -1,0 +1,226 @@
+[{
+  "_id": {
+    "$oid": "616000acee3449d88698ac42"
+  },
+  "Name": "MI 11X 5G",
+  "Thumbnail": "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
+  "Product_Gallery": [
+    "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
+    "http://dummyimage.com/124x100.png/5fa2dd/000000"
+  ],
+  "Description": "Brand new mobile.",
+  "Base_Price": 34999,
+  "Sell_Price": 26999,
+  "Category_Name": "Mobile",
+  "Tags": [
+    "Best seller",
+    "Free delivery"
+  ],
+  "Additional_Information": "",
+  "Created_At": {
+    "$date": "2021-10-08T08:26:20.524Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:26:20.524Z"
+  }
+},{
+  "_id": {
+    "$oid": "616000acee3449d88698ac43"
+  },
+  "Name": "Redmi 126cm 4K Ultra HD Android Smart LED TV",
+  "Thumbnail": "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
+  "Product_Gallery": [
+    "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
+    "http://dummyimage.com/124x100.png/5fa2dd/000000"
+  ],
+  "Description": "Android Smart LED TV",
+  "Base_Price": 44999,
+  "Sell_Price": 32999,
+  "Category_Name": "TV",
+  "Tags": [
+    "Never before price",
+    "Free delivery"
+  ],
+  "Additional_Information": "Worth buying",
+  "Created_At": {
+    "$date": "2021-10-08T08:26:20.524Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:26:20.524Z"
+  }
+},{
+  "_id": {
+    "$oid": "616000acee3449d88698ac44"
+  },
+  "Name": "Amazfit GTS2 Mini Smart Watch",
+  "Thumbnail": "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
+  "Product_Gallery": [
+    "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
+    "http://dummyimage.com/124x100.png/5fa2dd/000000"
+  ],
+  "Description": "The best smart watch",
+  "Base_Price": 9999,
+  "Sell_Price": 5999,
+  "Category_Name": "Watches",
+  "Tags": [
+    "Lowest ever price",
+    "Free delivery"
+  ],
+  "Additional_Information": "",
+  "Created_At": {
+    "$date": "2021-10-08T08:26:20.524Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:26:20.524Z"
+  }
+},{
+  "_id": {
+    "$oid": "616000acee3449d88698ac45"
+  },
+  "Name": "Acer Nitro 5 11th Gen Intel Core i5-11400H 15.6-inch Gaming Laptop",
+  "Thumbnail": "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
+  "Product_Gallery": [
+    "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
+    "http://dummyimage.com/124x100.png/5fa2dd/000000"
+  ],
+  "Description": "The HD Gaming Laptop for game lovers.",
+  "Base_Price": 100000,
+  "Sell_Price": 69990,
+  "Category_Name": "Laptop",
+  "Tags": [
+    "Lowest ever price",
+    "Free delivery",
+    "Best Seller"
+  ],
+  "Additional_Information": "",
+  "Created_At": {
+    "$date": "2021-10-08T08:26:20.524Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:26:20.524Z"
+  }
+},{
+  "_id": {
+    "$oid": "616000acee3449d88698ac46"
+  },
+  "Name": "Pigeon Special Stainless Steel Conical Casserole 3 Set",
+  "Thumbnail": "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
+  "Product_Gallery": [
+    "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
+    "http://dummyimage.com/124x100.png/5fa2dd/000000"
+  ],
+  "Description": "Best Cookware sets for your kitchen.",
+  "Base_Price": 2045,
+  "Sell_Price": 949,
+  "Category_Name": "Cookware",
+  "Tags": [
+    "Free delivery",
+    "Best Seller"
+  ],
+  "Additional_Information": "",
+  "Created_At": {
+    "$date": "2021-10-08T08:26:20.524Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:26:20.524Z"
+  }
+},{
+  "_id": {
+    "$oid": "616000acee3449d88698ac47"
+  },
+  "Name": "Tealight Candles",
+  "Thumbnail": "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
+  "Product_Gallery": [
+    "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
+    "http://dummyimage.com/124x100.png/5fa2dd/000000"
+  ],
+  "Description": "Devine candles",
+  "Base_Price": 599,
+  "Sell_Price": 229,
+  "Category_Name": "Home Decor Range",
+  "Tags": [
+    "Free delivery",
+    "Best Seller"
+  ],
+  "Additional_Information": "",
+  "Created_At": {
+    "$date": "2021-10-08T08:26:20.524Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:26:20.524Z"
+  }
+},{
+  "_id": {
+    "$oid": "616000acee3449d88698ac48"
+  },
+  "Name": "Diwali chocolate gift pack",
+  "Thumbnail": "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
+  "Product_Gallery": [
+    "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
+    "http://dummyimage.com/124x100.png/5fa2dd/000000"
+  ],
+  "Description": "Chocolate for Diwali",
+  "Base_Price": 800,
+  "Sell_Price": 599,
+  "Category_Name": "Gifting",
+  "Tags": [
+    "Best Seller"
+  ],
+  "Additional_Information": "",
+  "Created_At": {
+    "$date": "2021-10-08T08:26:20.524Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:26:20.646Z"
+  }
+},{
+  "_id": {
+    "$oid": "616000acee3449d88698ac49"
+  },
+  "Name": "Bean Bag XXL",
+  "Thumbnail": "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
+  "Product_Gallery": [
+    "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
+    "http://dummyimage.com/124x100.png/5fa2dd/000000"
+  ],
+  "Description": "Relax with bean bag",
+  "Base_Price": 3599,
+  "Sell_Price": 1495,
+  "Category_Name": "Furniture",
+  "Tags": [
+    "Free delivery",
+    "Best Seller"
+  ],
+  "Additional_Information": "",
+  "Created_At": {
+    "$date": "2021-10-08T08:26:20.524Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:26:20.524Z"
+  }
+},{
+  "_id": {
+    "$oid": "616000acee3449d88698ac4a"
+  },
+  "Name": "LED Prime inverter light 9W",
+  "Thumbnail": "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
+  "Product_Gallery": [
+    "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
+    "http://dummyimage.com/124x100.png/5fa2dd/000000"
+  ],
+  "Description": "Emergency light",
+  "Base_Price": 499,
+  "Sell_Price": 399,
+  "Category_Name": "Lighting",
+  "Tags": [
+    "Free delivery",
+    "Best Seller"
+  ],
+  "Additional_Information": "",
+  "Created_At": {
+    "$date": "2021-10-08T08:26:20.524Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:26:20.524Z"
+  }
+}]

@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "616000d99a24cca9b56c9913"
+  },
+  "Name": "Best Seller",
+  "Slug": "best-seller",
+  "Created_At": {
+    "$date": "2021-10-08T08:27:05.831Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:27:05.831Z"
+  }
+},{
+  "_id": {
+    "$oid": "616000d99a24cca9b56c9914"
+  },
+  "Name": "Free delivery",
+  "Slug": "free-delivery",
+  "Created_At": {
+    "$date": "2021-10-08T08:27:05.831Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:27:05.831Z"
+  }
+},{
+  "_id": {
+    "$oid": "616000d99a24cca9b56c9915"
+  },
+  "Name": "Lowest ever price",
+  "Slug": "lowest-ever-price",
+  "Created_At": {
+    "$date": "2021-10-08T08:27:05.831Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:27:05.831Z"
+  }
+},{
+  "_id": {
+    "$oid": "616000d99a24cca9b56c9916"
+  },
+  "Name": "Never before price",
+  "Slug": "never-before-price",
+  "Created_At": {
+    "$date": "2021-10-08T08:27:05.831Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:27:05.831Z"
+  }
+},{
+  "_id": {
+    "$oid": "616000d99a24cca9b56c9917"
+  },
+  "Name": "Fast delivery",
+  "Slug": "fast-delivery",
+  "Created_At": {
+    "$date": "2021-10-08T08:27:05.831Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:27:05.906Z"
+  }
+}]

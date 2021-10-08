@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "6160003aa6e28b1c32cc4a94"
+  },
+  "Product": "MI 11X 5G",
+  "User": "Ganesh",
+  "Product_Qty": 2,
+  "Base_Price": 34999,
+  "Sell_Price": 26999,
+  "Total_Price": 53998,
+  "Created_At": {
+    "$date": "2021-10-08T08:24:26.434Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:24:26.434Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160003aa6e28b1c32cc4a95"
+  },
+  "Product": "Redmi 126cm 4K Ultra HD Android Smart LED TV",
+  "User": "Ganesh",
+  "Product_Qty": 2,
+  "Base_Price": 44999,
+  "Sell_Price": 32999,
+  "Total_Price": 65998,
+  "Created_At": {
+    "$date": "2021-10-08T08:24:26.434Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:24:26.568Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160003aa6e28b1c32cc4a96"
+  },
+  "Product": "Amazfit GTS2 Mini Smart Watch",
+  "User": "Ganesh",
+  "Product_Qty": 4,
+  "Base_Price": 9999,
+  "Sell_Price": 5999,
+  "Total_Price": 23996,
+  "Created_At": {
+    "$date": "2021-10-08T08:24:26.434Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:24:26.434Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160003aa6e28b1c32cc4a97"
+  },
+  "Product": "MI 11X 5G",
+  "User": "Shiva",
+  "Product_Qty": 1,
+  "Base_Price": 34999,
+  "Sell_Price": 26999,
+  "Total_Price": 26999,
+  "Created_At": {
+    "$date": "2021-10-08T08:24:26.434Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:24:26.434Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160003aa6e28b1c32cc4a98"
+  },
+  "Product": "Amazfit GTS2 Mini Smart Watch",
+  "User": "Shiva",
+  "Product_Qty": 5,
+  "Base_Price": 9999,
+  "Sell_Price": 5999,
+  "Total_Price": 29995,
+  "Created_At": {
+    "$date": "2021-10-08T08:24:26.434Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:24:26.434Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160003aa6e28b1c32cc4a99"
+  },
+  "Product": "MI 11X 5G",
+  "User": "Ram",
+  "Product_Qty": 2,
+  "Base_Price": 34999,
+  "Sell_Price": 26999,
+  "Total_Price": 53998,
+  "Created_At": {
+    "$date": "2021-10-08T08:24:26.434Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:24:26.434Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160003aa6e28b1c32cc4a9a"
+  },
+  "Product": "Redmi 126cm 4K Ultra HD Android Smart LED TV",
+  "User": "Ram",
+  "Product_Qty": 2,
+  "Base_Price": 44999,
+  "Sell_Price": 32999,
+  "Total_Price": 65998,
+  "Created_At": {
+    "$date": "2021-10-08T08:24:26.434Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:24:26.434Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160003aa6e28b1c32cc4a9b"
+  },
+  "Product": "Acer Nitro 5 11th Gen Intel Core i5-11400H 15.6-inch Gaming Laptop",
+  "User": "Ram",
+  "Product_Qty": 1,
+  "Base_Price": 100000,
+  "Sell_Price": 69990,
+  "Total_Price": 69990,
+  "Created_At": {
+    "$date": "2021-10-08T08:24:26.434Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:24:26.434Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160003aa6e28b1c32cc4a9d"
+  },
+  "Product": "Acer Nitro 5 11th Gen Intel Core i5-11400H 15.6-inch Gaming Laptop",
+  "User": "Puneeth",
+  "Product_Qty": 1,
+  "Base_Price": 100000,
+  "Sell_Price": 69990,
+  "Total_Price": 69990,
+  "Created_At": {
+    "$date": "2021-10-08T08:24:26.434Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:24:26.434Z"
+  }
+}]

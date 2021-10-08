@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "6160006d52b1b9febcba43a6"
+  },
+  "Name": "Mobile Phone",
+  "Slug": "mobile-phone",
+  "Image": "http://dummyimage.com/209x100.png/dddddd/000000",
+  "Description": "A mobile phone, cellular phone, cell phone, cellphone, handphone, or hand phone, sometimes shortened to simply mobile, cell or just phone, is a portable telephone that can make and receive calls over a radio frequency link while the user is moving within a telephone service area.",
+  "Created_At": {
+    "$date": "2021-10-08T08:25:17.102Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:25:17.220Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160006d52b1b9febcba43a7"
+  },
+  "Name": "Computer",
+  "Slug": "computer",
+  "Image": "http://dummyimage.com/209x100.png/dddddd/000000",
+  "Description": "A computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations automatically. Modern computers can perform generic sets of operations known as programs.",
+  "Created_At": {
+    "$date": "2021-10-08T08:25:17.102Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:25:17.102Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160006d52b1b9febcba43a9"
+  },
+  "Name": "Cameras",
+  "Slug": "cameras",
+  "Image": "http://dummyimage.com/209x100.png/dddddd/000000",
+  "Description": "A camera is an optical instrument that captures a visual image.",
+  "Created_At": {
+    "$date": "2021-10-08T08:25:17.102Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:25:17.102Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160006d52b1b9febcba43aa"
+  },
+  "Name": "Cookware",
+  "Slug": "cookware",
+  "Image": "http://dummyimage.com/209x100.png/dddddd/000000",
+  "Description": "Cookware and bakeware is food preparation equipment, such as cooking pots, pans, baking sheets etc.",
+  "Created_At": {
+    "$date": "2021-10-08T08:25:17.102Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:25:17.102Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160006d52b1b9febcba43ab"
+  },
+  "Name": "Home Decor Range",
+  "Slug": "home-decor-range",
+  "Image": "http://dummyimage.com/209x100.png/dddddd/000000",
+  "Description": "Home Decor Range are the products used for home decorations.",
+  "Created_At": {
+    "$date": "2021-10-08T08:25:17.102Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:25:17.102Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160006d52b1b9febcba43ac"
+  },
+  "Name": "Furniture",
+  "Slug": "furniture",
+  "Image": "http://dummyimage.com/209x100.png/dddddd/000000",
+  "Description": "Furniture consists of large objects such as tables, chairs, or beds that are used in a room for sitting or lying on or for putting things on or in.",
+  "Created_At": {
+    "$date": "2021-10-08T08:25:17.102Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:25:17.102Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160006d52b1b9febcba43ad"
+  },
+  "Name": "Lighting",
+  "Slug": "lighting",
+  "Image": "http://dummyimage.com/209x100.png/dddddd/000000",
+  "Description": "Lighting or illumination is the deliberate use of light to achieve practical or aesthetic effects.",
+  "Created_At": {
+    "$date": "2021-10-08T08:25:17.102Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:25:17.102Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160006d52b1b9febcba43ae"
+  },
+  "Name": "Gifting",
+  "Slug": "gifting",
+  "Image": "http://dummyimage.com/209x100.png/dddddd/000000",
+  "Description": "A gift is an offering of money or assets made by one person to another in which nothing of comparable value is given, or expected to be given, in return.",
+  "Created_At": {
+    "$date": "2021-10-08T08:25:17.102Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:25:17.102Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160006d52b1b9febcba43af"
+  },
+  "Name": "Clothing",
+  "Slug": "clothing",
+  "Image": "http://dummyimage.com/209x100.png/dddddd/000000",
+  "Description": "Clothing (also known as clothes, apparel, and attire) are items worn on the body.",
+  "Created_At": {
+    "$date": "2021-10-08T08:25:17.102Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:25:17.102Z"
+  }
+}]

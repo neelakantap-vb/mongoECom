@@ -1,0 +1,23 @@
+{
+  "name": "mongoECom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/neelakantap-vb/mongoECom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neelakantap-vb/mongoECom/issues"
+  },
+  "homepage": "https://github.com/neelakantap-vb/mongoECom#readme",
+  "dependencies": {
+    "mongodb": "^4.1.3"
+  }
+}

@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "6160012554a801388f1c0568"
+  },
+  "First_Name": "Abhi",
+  "Last_Name": "P",
+  "Email": "abhi@gmail.com",
+  "Profile_Image": "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
+  "Role": "user",
+  "Created_At": {
+    "$date": "2021-10-08T08:28:21.189Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:28:21.189Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160012554a801388f1c0569"
+  },
+  "First_Name": "Basav",
+  "Last_Name": "G",
+  "Email": "basav@gmail.com",
+  "Profile_Image": "http://dummyimage.com/209x100.png/dddddd/000000",
+  "Role": "user",
+  "Created_At": {
+    "$date": "2021-10-08T08:28:21.189Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:28:21.189Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160012554a801388f1c056a"
+  },
+  "First_Name": "Channu",
+  "Last_Name": "G",
+  "Email": "channu@gmail.com",
+  "Profile_Image": "http://dummyimage.com/209x100.png/dddddd/000000",
+  "Role": "staff",
+  "Created_At": {
+    "$date": "2021-10-08T08:28:21.189Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:28:21.189Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160012554a801388f1c056c"
+  },
+  "First_Name": "Yash",
+  "Last_Name": "P",
+  "Email": "yash@gmail.com",
+  "Profile_Image": "http://dummyimage.com/209x100.png/dddddd/000000",
+  "Role": "staff",
+  "Created_At": {
+    "$date": "2021-10-08T08:28:21.189Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:28:21.189Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160012554a801388f1c056d"
+  },
+  "First_Name": "Ram",
+  "Last_Name": "G",
+  "Email": "rama@gmail.com",
+  "Profile_Image": "http://dummyimage.com/209x100.png/dddddd/000000",
+  "Role": "Operator",
+  "Created_At": {
+    "$date": "2021-10-08T08:28:21.189Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:28:21.266Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160012554a801388f1c056e"
+  },
+  "First_Name": "Puneeth",
+  "Last_Name": "R",
+  "Email": "puneeth@gmail.com",
+  "Profile_Image": "http://dummyimage.com/209x100.png/dddddd/000000",
+  "Role": "user",
+  "Created_At": {
+    "$date": "2021-10-08T08:28:21.189Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:28:21.189Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160012554a801388f1c056f"
+  },
+  "First_Name": "Shiva",
+  "Last_Name": "P",
+  "Email": "shiva@gmail.com",
+  "Profile_Image": "http://dummyimage.com/209x100.png/dddddd/000000",
+  "Role": "manager",
+  "Created_At": {
+    "$date": "2021-10-08T08:28:21.189Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:28:21.189Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160012554a801388f1c0570"
+  },
+  "First_Name": "Sudeep",
+  "Last_Name": "P",
+  "Email": "sudeep@gmail.com",
+  "Profile_Image": "http://dummyimage.com/209x100.png/dddddd/000000",
+  "Role": "user",
+  "Created_At": {
+    "$date": "2021-10-08T08:28:21.189Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:28:21.189Z"
+  }
+},{
+  "_id": {
+    "$oid": "6160012554a801388f1c0571"
+  },
+  "First_Name": "Ganesh",
+  "Last_Name": "P",
+  "Email": "ganesh@gmail.com",
+  "Profile_Image": "http://dummyimage.com/209x100.png/dddddd/000000",
+  "Role": "admin",
+  "Created_At": {
+    "$date": "2021-10-08T08:28:21.189Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:28:21.189Z"
+  }
+}]

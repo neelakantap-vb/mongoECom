@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "616000c32c186d6f0f3b87e3"
+  },
+  "Name": "User",
+  "Slug": "user",
+  "Created_At": {
+    "$date": "2021-10-08T08:26:43.060Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:26:43.060Z"
+  }
+},{
+  "_id": {
+    "$oid": "616000c32c186d6f0f3b87e4"
+  },
+  "Name": "Admin",
+  "Slug": "admin",
+  "Created_At": {
+    "$date": "2021-10-08T08:26:43.060Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:26:43.060Z"
+  }
+},{
+  "_id": {
+    "$oid": "616000c32c186d6f0f3b87e5"
+  },
+  "Name": "Staff",
+  "Slug": "staff",
+  "Created_At": {
+    "$date": "2021-10-08T08:26:43.060Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:26:43.060Z"
+  }
+},{
+  "_id": {
+    "$oid": "616000c32c186d6f0f3b87e6"
+  },
+  "Name": "Owner",
+  "Slug": "owner",
+  "Created_At": {
+    "$date": "2021-10-08T08:26:43.060Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:26:43.140Z"
+  }
+},{
+  "_id": {
+    "$oid": "616000c32c186d6f0f3b87e7"
+  },
+  "Name": "Manager",
+  "Slug": "manager",
+  "Created_At": {
+    "$date": "2021-10-08T08:26:43.060Z"
+  },
+  "Updated_At": {
+    "$date": "2021-10-08T08:26:43.060Z"
+  }
+}]
